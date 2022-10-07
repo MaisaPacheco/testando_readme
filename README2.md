@@ -5,7 +5,9 @@
 #### <h4 align="center"> Grupo 9 - Petshop </h4>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/78439783/133023491-24673bf3-0205-47ab-8392-60a64b1c3c08.png" width="150px" height="150px">
+  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74475820/194670258-75e61522-a813-4063-a396-48d31784f29a.gif)
+  
 </div>
                                                                                                                 
 <p align="center">
