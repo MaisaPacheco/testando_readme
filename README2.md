@@ -1,6 +1,6 @@
-# Desafio Final - Luiza Code 
+# Final challenge - Luiza Code 
 
-# <p align="center"> Equipe LuPets</p>
+# <p align="center"> LuPets Team </p>
 
 #### <h4 align="center"> Grupo 9 - Petshop </h4>
 
@@ -11,48 +11,51 @@
 </div>
                                                                                                                 
 <p align="center">
-    <h3 align="center"> Projeto final - Shopping Cart </h3>
+    <h3 align="center"> Final project - Shopping Cart </h3>
     <p align="center">
-       Projeto desenvolvido para a entrega final da 5 edição do Luiza Code
+       Project developed for the final delivery of the 5th edition of Luiza Code
     <br />
    </p>
 <p>
 
-# Sobre o projeto
+# About the project
 
 texto aqui
     
-# Regras do projeto
+# Project rules
 
 regras aqui
   
-# Apresentação das atividades
+# Presentation of activities
   texto aqui
 
-# Arquitetura do projeto
+# Project architecture
 
 _Client Endpoints_
+  * imagem do endpoint do usuário do fastapi
 _Product Endpoints_
+  * imagem do endpoint de produto do fastapi
 _cart Endpoints_
+  * imagem do endpoint do carrinho do fastapi
 
 
 imagem dos endpoints aqui 
 
-# como executar o fastapi?
+# How to run fastapi?
   texto aqui
 
-# como executar os testes unitários
+# How to run unit tests
   texto aqui
   
-# deploy no heroku
+# Deploy on heroku
   imagem aqui
   
-# virtualização no Docker
+# Virtualization in docker
   imagem aqui
 
 
 
-# Tecnologias Utilizadas: <br>
+# Technologies used <br>
 <a href="pyton">
    <img align="center" alt="node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
@@ -62,15 +65,15 @@ imagem dos endpoints aqui
   <a href="fastapi">
    <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg">
 </a>
-    <a href="Docker">
+    <a href="docker">
    <img align="center" alt="sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </a>
-   <a href="Heroku">
+   <a href="heroku">
    <img align="center" alt="sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 </a>
 
 
-## <p align="center"> Pessoas desenvolvedoras </p>
+## <p align="center"> Developer people </p>
 
 <table align="center">
   <td align="center"><br>
