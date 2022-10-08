@@ -78,7 +78,7 @@ imagem dos endpoints aqui
 <table align="center">
   <td align="center"><br>
         <a href="https://www.linkedin.com/in/ana-vitoria-luz-546201219/">
-          <img src="imagem do avatar aqui dentro" width="105px;" alt="Ana Vitoria" style="max-width:100%;border-radius: 50%;">
+          <img src="https://i.postimg.cc/x82zRCj2/Integrantes.png" width="105px;" alt="Ana Vitoria" style="max-width:100%;border-radius: 50%;">
             <br><sub><b>Ana Vitória Luz</b></sub><br>
          <p align="center">
          </a><br>
@@ -94,7 +94,7 @@ imagem dos endpoints aqui
        </p>
 </td>
 <td align="center"><br>
-        <a href="imagem da larissa aqui">
+        <a href="https://i.postimg.cc/bwzRP6hh/Integrantes3.png">
             <img src="imagem aqui" width="105px;" alt="Larissa Bertani" style="max-width:100%;border-radius: 50%;">
             <br><sub><b>Larissa Bertani</b></sub><br>
         <p align="center">
@@ -111,7 +111,7 @@ imagem dos endpoints aqui
        </p>
 </td>
 <td align="center"><br>
-        <a href="imagem da Maisa aqui">
+        <a href="https://i.postimg.cc/wBwNk0K6/Integrantes4.png">
             <img src="imagem aqui" width="105px;" alt="Maisa Pacheco" style="max-width:100%;border-radius: 50%;">
             <br><sub><b>Maisa Pacheco</b></sub><br>
         <p align="center">
@@ -128,7 +128,7 @@ imagem dos endpoints aqui
        </p>
 </td>
 <td align="center"><br>
-        <a href="imagem da Camila aqui">
+        <a href="https://i.postimg.cc/5N8PbYQw/Integrantes2.png">
             <img src="imagem aqui" width="105px;" alt="Camila" style="max-width:100%;border-radius: 50%;">
             <br><sub><b>Camila</b></sub><br>
         <p align="center">
@@ -145,7 +145,7 @@ imagem dos endpoints aqui
        </p>
 </td>
 <td align="center"><br>
-        <a href="imagem da Siomara aqui">
+        <a href="https://i.postimg.cc/zBpxKn7W/Integrantes5.png">
             <img src="imagem aqui" width="105px;" alt="Siomara Murta" style="max-width:100%;border-radius: 50%;">
             <br><sub><b>Maisa Pacheco</b></sub><br>
         <p align="center">
