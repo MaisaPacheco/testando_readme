@@ -25,6 +25,9 @@ texto aqui
 # Regras do projeto
 
 regras aqui
+  
+# Apresentação das atividades
+  texto aqui
 
 # Arquitetura do projeto
 
@@ -35,26 +38,37 @@ _cart Endpoints_
 
 imagem dos endpoints aqui 
 
-## como executar?
+# como executar o fastapi?
+  texto aqui
+
+# como executar os testes unitários
+  texto aqui
+  
+# deploy no heroku
+  imagem aqui
+  
+# virtualização no Docker
+  imagem aqui
+
 
 
 # 🚀 Tecnologias Utilizadas: <br>
-<a href="Node">
-   <img align="center" alt="node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<a href="pyton">
+   <img align="center" alt="node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
-<a href="MySQL">
-   <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <a href="mongodb">
+   <img align="center" alt="express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </a>
-    <a href="express">
-   <img align="center" alt="express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <a href="fastapi">
+   <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg">
 </a>
-    <a href="sequelize">
-   <img align="center" alt="sequelize" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+    <a href="Docker">
+   <img align="center" alt="sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</a>
+   <a href="Heroku">
+   <img align="center" alt="sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 </a>
 
-- ⚡ Express — A web framework for Node.js
-- 💾 Sequelize — SQL dialect ORM for Node.js
-- 📚 MySQL - Database
 
 ## <p align="center"> Pessoas desenvolvedoras </p>
 
