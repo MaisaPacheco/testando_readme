@@ -52,7 +52,7 @@ imagem dos endpoints aqui
 
 
 
-# 🚀 Tecnologias Utilizadas: <br>
+# Tecnologias Utilizadas: <br>
 <a href="pyton">
    <img align="center" alt="node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
